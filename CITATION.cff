@@ -7,6 +7,20 @@ date-released: "2026-09-28"
 license: CC-BY-4.0
 repository-code: "https://github.com/MarcoFischer1995/JPSFischerEtAl2025"
 url: "https://github.com/MarcoFischer1995/JPSFischerEtAl2025"
+abstract: >-
+  AI-readable paper skill for Fischer et al. (2025), Journal of Power Sources 656, 237921,
+  https://doi.org/10.1016/j.jpowsour.2025.237921. It contains the full article text with searchable
+  equation transcriptions, Figures 1 to 8 and Tables 1 to 5 and C.6 (CSV), for use with Claude,
+  Claude Code or Codex. Converted with Paper2Agent (Miao et al., Nature 2026,
+  https://doi.org/10.1038/s41586-026-11044-y). The package contains no raw data and no code.
+keywords:
+  - lithium-ion battery
+  - battery aging
+  - state of health
+  - capacity fade
+  - resistance increase
+  - Paper2Agent
+  - agent skill
 authors:
   - family-names: Fischer
     given-names: Marco

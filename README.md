@@ -20,7 +20,7 @@ The package contains only the published article. It contains no raw data and no 
 
 ## Install
 
-**Claude apps (web and desktop):** download `jps2025-capacity-resistance-paper.zip` from the [latest release](https://github.com/MarcoFischer1995/JPSFischerEtAl2025/releases/latest). In Claude, open **Customize > Skills** and upload the zip. Code execution must be enabled.
+**Claude apps (web and desktop):** download `JPSFischerEtAl2025.zip` from the [latest release](https://github.com/MarcoFischer1995/JPSFischerEtAl2025/releases/latest). In Claude, open **Customize > Skills** and upload the zip. Code execution must be enabled.
 
 **Claude Code:** clone this repository and copy the folder `jps2025-capacity-resistance-paper` to `~/.claude/skills/` (all projects) or to `.claude/skills/` inside one project. Restart Claude Code.
 
