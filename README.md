@@ -1,5 +1,7 @@
 # Paper agent: capacity fade vs. resistance increase in 814 Li-ion cells
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23016306.svg)](https://doi.org/10.5281/zenodo.23016306)
+
 An AI-readable version of our open-access article, packaged as an agent skill with [Paper2Agent](https://github.com/jmiao24/Paper2Agent) ([Miao et al., *Nature* 2026](https://doi.org/10.1038/s41586-026-11044-y)). Ask it about the dataset, methods, equations, figures and tables. Every answer can be traced back to a section, figure or table of the paper.
 
 > M. Fischer, M.J. Brand, A. Karger, M. Rubio Gomez, M. Rehm, J. Natterer, A. Jossen,
@@ -46,7 +48,7 @@ Then ask, for example:
 
 ## License and attribution
 
-The article is published open access under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This repository is an adaptation of that article. Text, figures and tables were converted to Markdown, JPEG and CSV. Layout artefacts were repaired, and equations were additionally transcribed as text. The scientific content was not modified. This repository is released under CC BY 4.0 as well, see `LICENSE`. Please cite the original article, see `CITATION.cff`.
+The article is published open access under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This repository is an adaptation of that article. Text, figures and tables were converted to Markdown, JPEG and CSV. Layout artefacts were repaired, and equations were additionally transcribed as text. The scientific content was not modified. This repository is released under CC BY 4.0 as well, see `LICENSE`. Please cite the original article, see `CITATION.cff`. Every release is archived on Zenodo: https://doi.org/10.5281/zenodo.23016306 (all versions).
 
 Conversion tool: Paper2Agent, J. Miao, J.R. Davis, Y. Zhang, J.K. Pritchard, J. Zou, *Reimagining research papers as interactive and reliable AI agents*, Nature (2026). https://doi.org/10.1038/s41586-026-11044-y
 
