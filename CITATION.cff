@@ -5,8 +5,8 @@ type: dataset
 version: "1.0.0"
 date-released: "2026-09-28"
 license: CC-BY-4.0
-repository-code: "https://github.com/DerBOY1995/jps2025-capacity-resistance-agent"
-url: "https://github.com/DerBOY1995/jps2025-capacity-resistance-agent"
+repository-code: "https://github.com/MarcoFischer1995/JPSFischerEtAl2025"
+url: "https://github.com/MarcoFischer1995/JPSFischerEtAl2025"
 authors:
   - family-names: Fischer
     given-names: Marco
