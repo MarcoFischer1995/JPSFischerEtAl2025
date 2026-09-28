@@ -1,0 +1,17 @@
+Dataset ID,Aging condition,n_cells,RMSE ± σ / %
+A,Calendar,30,3.32 ± 0.14
+A,Cycle,29,4.29 ± 0.15
+PHEV2,Calendar,10,1.77 ± 0.20
+PHEV2,Cycle,33,1.93 ± 0.14
+MJ1₁,Cycle,34,2.89 ± 0.14
+MJ1₂,Cycle,10,1.78 ± 0.11
+48X2,Cycle,39,1.67 ± 0.08
+M50L,Cycle,37,3.05 ± 0.12
+M48,Cycle,37,3.53 ± 0.21
+VTC6A,Cycle,24,4.57 ± 0.27
+M50A,Cycle,34,3.03 ± 0.11
+P42A,Cycle,16,2.35 ± 0.12
+50E₁,Cycle,32,3.15 ± 0.24
+50E₂,Cycle,54,0.84 ± 0.07
+FTC1,Calendar,44,1.28 ± 0.10
+FTC1,Cycle,61,3.02 ± 0.23

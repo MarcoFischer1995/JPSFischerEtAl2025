@@ -1,0 +1,19 @@
+Dataset ID,Condition,Model,RMSE/%,R²_adj
+VTC5A,Calendar,Linear,0.8,0.81
+VTC5A,Calendar,Exponential,0.5,0.94
+VTC5A,Calendar,Power,0.5,0.93
+VTC5A,Cyclic,Linear,1.0,0.91
+VTC5A,Cyclic,Exponential,1.0,0.86
+VTC5A,Cyclic,Power,0.3,0.99
+FTC1,Calendar,Linear,0.2,0.99
+FTC1,Calendar,Exponential,0.2,0.98
+FTC1,Calendar,Power,<0.01,0.99
+FTC1,Cyclic,Linear,1.1,0.99
+FTC1,Cyclic,Exponential,0.2,0.99
+FTC1,Cyclic,Power,0.3,0.99
+"MJ1₁, MJ1₂",Calendar,Linear,1.1,0.89
+"MJ1₁, MJ1₂",Calendar,Exponential,1.2,0.79
+"MJ1₁, MJ1₂",Calendar,Power,0.2,0.99
+"MJ1₁, MJ1₂",Cyclic,Linear,3.7,0.87
+"MJ1₁, MJ1₂",Cyclic,Exponential,3.5,0.76
+"MJ1₁, MJ1₂",Cyclic,Power,0.8,0.99

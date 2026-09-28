@@ -1,0 +1,16 @@
+Ref,Dataset ID,Cell,Manufacturer,U_N,Anode,Cathode,Z_N/R_N,C_N,n_cells
+[40],A,IHR18650A,Molicel,3.70 V,Gr,NMC,–,1.95 Ah,63
+–,PHEV2,PHEV2,Samsung SDI,3.68 V,Gr,NMC,–,120 Ah,56
+[52],MJ1₁,INR18650 MJ1,LG-Chem Ltd,3.635 V,Gr–Si,NMC,Z^a ≤40 mΩ,3.50 Ah,37
+[3],MJ1₂,INR18650 MJ1,LG-Chem Ltd,3.635 V,Gr–Si,NMC,Z^a ≤40 mΩ,3.50 Ah,10
+–,48X2,INR21700 48X2,Samsung SDI,3.64 V,Gr,NMC,Z^a ≤13 ± 5 mΩ,4.80 Ah,40
+–,M50L,INR21700 M50L,LG-Chem Ltd,3.69 V,Gr–Si,NMC,Z^a ≤15 ± 6 mΩ / R_DC^c ≤23 ± 6 mΩ,4.80 Ah,40
+–,M48,INR21700 M48,LG-Chem Ltd,3.68 V,Gr–Si,NMC,Z^a ≤17 mΩ / R_DC^c ≤23 ± 6 mΩ,4.60 Ah,41
+–,VTC6A,US21700 VTC6A,Murata,3.60 V,Gr,NCA,Z^a = 5 mΩ–15 mΩ; 9.7 mΩ Typ.,4.10 Ah,35
+–,M50A,INR21700 M50A,Molicel,3.60 V,Gr,NCA,Z^b = 15 mΩ / R_DC^d = 25 mΩ,5.00 Ah,39
+–,P42A,INR21700 P42A,Molicel,3.60 V,Gr,NCA,Z^b ≤10 mΩ / R_DC^e = 16 mΩ,4.20 Ah,40
+–,50E₁,INR21700 50E,Samsung SDI,3.63 V,Gr–Si,NCA,Z^a = 13 ± 5 mΩ,4.90 Ah,38
+[53],VTC5A,US18650 VTC5A,Murata,3.60 V,Gr–Si,NCA,Z^a = 7 mΩ–15 mΩ; 13 mΩ Typ.,2.60 Ah,164
+–,50E₂,INR21700 50E,Samsung SDI,3.63 V,Gr–Si,NCA,Z^a = 13 ± 5 mΩ,4.90 Ah,54
+"[54,55]",FTC1,US26650 FTC1,Murata,3.20 V,Gr,LFP,Z^b = 12 mΩ–22 mΩ; 18 mΩ Typ.,3.00 Ah,157
+,,,,,,,,Total:,814

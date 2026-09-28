@@ -1,0 +1,5 @@
+Gradations,"Range of |r(x, y)|"
+Weak/none,<0.4
+Moderate,"0.4 < |r(x, y)| < 0.8"
+Strong,"0.8 < |r(x, y)| < 1.0"
+Perfect,=1.0

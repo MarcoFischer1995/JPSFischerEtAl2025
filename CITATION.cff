@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this paper agent, please cite the original article."
+title: "Paper agent: How degradation of lithium-ion batteries impacts capacity fade and resistance increase"
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-28"
+license: CC-BY-4.0
+repository-code: "https://github.com/DerBOY1995/jps2025-capacity-resistance-agent"
+url: "https://github.com/DerBOY1995/jps2025-capacity-resistance-agent"
+authors:
+  - family-names: Fischer
+    given-names: Marco
+    affiliation: "Technical University of Munich, Chair of Electrical Energy Storage Technology"
+    email: marco.fischer@tum.de
+preferred-citation:
+  type: article
+  title: "How degradation of lithium-ion batteries impacts capacity fade and resistance increase: A systematic, correlative analysis"
+  authors:
+    - family-names: Fischer
+      given-names: Marco
+    - family-names: Brand
+      given-names: Martin Johannes
+    - family-names: Karger
+      given-names: Alexander
+    - family-names: Rubio Gomez
+      given-names: Manuel
+    - family-names: Rehm
+      given-names: Mathias
+    - family-names: Natterer
+      given-names: Johannes
+    - family-names: Jossen
+      given-names: Andreas
+  journal: "Journal of Power Sources"
+  volume: 656
+  start: 237921
+  year: 2025
+  doi: "10.1016/j.jpowsour.2025.237921"
