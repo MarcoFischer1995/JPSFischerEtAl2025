@@ -10,7 +10,7 @@ An AI-readable version of our open-access article, packaged as an agent skill wi
 
 | Folder / file | Content |
 | --- | --- |
-| `jps2025-capacity-resistance-paper/SKILL.md` | Entry point for the agent |
+| `jps-fischer-et-al-2025-paper/SKILL.md` | Entry point for the agent |
 | `.../references/paper.md` | Full article text, including equations as searchable transcriptions |
 | `.../references/index.md` | Section navigation |
 | `.../assets/figure/` | Figures 1 to 8, graphical abstract, equation images |
@@ -22,7 +22,7 @@ The package contains only the published article. It contains no raw data and no 
 
 **Claude apps (web and desktop):** download `JPSFischerEtAl2025.zip` from the [latest release](https://github.com/MarcoFischer1995/JPSFischerEtAl2025/releases/latest). In Claude, open **Customize > Skills** and upload the zip. Code execution must be enabled.
 
-**Claude Code:** clone this repository and copy the folder `jps2025-capacity-resistance-paper` to `~/.claude/skills/` (all projects) or to `.claude/skills/` inside one project. Restart Claude Code.
+**Claude Code:** clone this repository and copy the folder `jps-fischer-et-al-2025-paper` to `~/.claude/skills/` (all projects) or to `.claude/skills/` inside one project. Restart Claude Code.
 
 ```bash
 git clone https://github.com/MarcoFischer1995/JPSFischerEtAl2025.git

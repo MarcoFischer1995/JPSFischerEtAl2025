@@ -1,5 +1,5 @@
 ---
-name: jps2025-capacity-resistance-paper
+name: jps-fischer-et-al-2025-paper
 description: "Answers questions on Fischer et al. 2025, J. Power Sources 656, 237921: capacity fade vs. resistance increase of 814 Li-ion cells, power-law SOH fit, DC-pulse vs. EIS features."
 ---
 
