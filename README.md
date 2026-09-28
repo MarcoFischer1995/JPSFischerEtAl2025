@@ -1,12 +1,15 @@
 # Paper agent: capacity fade vs. resistance increase in 814 Li-ion cells
 
+[![Paper](https://img.shields.io/badge/Paper-J.%20Power%20Sources%20656%2C%20237921-0b5394)](https://doi.org/10.1016/j.jpowsour.2025.237921)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23016306.svg)](https://doi.org/10.5281/zenodo.23016306)
 
-An AI-readable version of our open-access article, packaged as an agent skill with [Paper2Agent](https://github.com/jmiao24/Paper2Agent) ([Miao et al., *Nature* 2026](https://doi.org/10.1038/s41586-026-11044-y)). Ask it about the dataset, methods, equations, figures and tables. Every answer can be traced back to a section, figure or table of the paper.
+An AI-readable version of our [open-access article](https://doi.org/10.1016/j.jpowsour.2025.237921), packaged as an agent skill with [Paper2Agent](https://github.com/jmiao24/Paper2Agent) ([Miao et al., *Nature* 2026](https://doi.org/10.1038/s41586-026-11044-y)). Ask it about the dataset, methods, equations, figures and tables. Answers can be traced back to a section, figure or table of the paper.
 
 > M. Fischer, M.J. Brand, A. Karger, M. Rubio Gomez, M. Rehm, J. Natterer, A. Jossen,
 > **How degradation of lithium-ion batteries impacts capacity fade and resistance increase: A systematic, correlative analysis**,
 > *Journal of Power Sources* 656 (2025) 237921. https://doi.org/10.1016/j.jpowsour.2025.237921
+>
+> © 2025 The Authors. Published by Elsevier B.V. Open access under the CC BY 4.0 license.
 
 ## What is inside
 
@@ -41,10 +44,10 @@ Then ask, for example:
 
 ## Limitations
 
-- The agent answers from the article only. It can still misread or over-generalize. Check important numbers against the paper.
+- The agent answers from the article only. It can still misread or over-generalize. Check important numbers against the [paper](https://doi.org/10.1016/j.jpowsour.2025.237921).
 - Values printed inside figures, such as the per-subset fit parameters in Fig. 8, exist only as images. Agents without image input cannot read them.
 - The global-fit parameters are specific to the cell types and aging conditions in the paper. They are not universal constants.
-- Conversion status: `reviewed_with_limitations`. Every page was checked against the PDF. The remaining limitations are documented parser differences (subscripted dataset IDs, superscript exponents, rejoined URLs). No content was changed. The only difference from the verified build is a shorter `description` in `SKILL.md`, because the Claude apps accept at most 200 characters.
+- Conversion status: `reviewed_with_limitations`. Every page was checked against the PDF. The recorded limitations are parser differences only: subscripted dataset IDs, superscript exponents, equation transcriptions, table labels repeated for merged cells, and line-wrap repairs (a split minus sign, rejoined URLs and DOIs). The scientific content was not changed. The only difference from the verified build is a shorter `description` in `SKILL.md`, because the Claude apps accept at most 200 characters.
 
 ## License and attribution
 

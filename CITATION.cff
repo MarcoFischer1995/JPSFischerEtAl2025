@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this paper agent, please cite the original article."
+message: "If you use this paper agent, please cite the original article: M. Fischer et al., Journal of Power Sources 656 (2025) 237921, https://doi.org/10.1016/j.jpowsour.2025.237921"
 title: "Paper agent: How degradation of lithium-ion batteries impacts capacity fade and resistance increase"
 type: dataset
 version: "1.1.0"
