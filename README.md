@@ -53,6 +53,8 @@ Then ask, for example:
 
 The article is published open access under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This repository is an adaptation of that article. Text, figures and tables were converted to Markdown, JPEG and CSV. Layout artefacts were repaired, and equations were additionally transcribed as text. The scientific content was not modified. This repository is released under CC BY 4.0 as well, see `LICENSE`. Please cite the original article, see `CITATION.cff`. Every release is archived on Zenodo: https://doi.org/10.5281/zenodo.23016306 (all versions).
 
+Related paper agent: [ETRANFischerEtAl2026](https://github.com/MarcoFischer1995/ETRANFischerEtAl2026) for Fischer et al., *eTransportation* 30 (2026) 100636, the teardown study of 3 field-aged EV battery packs that builds on this work.
+
 Conversion tool: Paper2Agent, J. Miao, J.R. Davis, Y. Zhang, J.K. Pritchard, J. Zou, *Reimagining research papers as interactive and reliable AI agents*, Nature (2026). https://doi.org/10.1038/s41586-026-11044-y
 
 ## Contact
